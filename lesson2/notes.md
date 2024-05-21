@@ -1,6 +1,6 @@
 # Lesson 2
 
-Facade:
+### Facade:
 Intent - provide a **Unified Interface** to set of interfaces in a **Wrapper**.
 Motivation - Structuring a system into subsystems helps reduce complexity. The design goal is to minimize the commutation and dependencies bewteen systems. One way to achieve this goal is to introduce a facade object that provides a single, simplified interface to the more general facilities of a subsystem.
 
