@@ -12,4 +12,6 @@ Types of Interfaces:
 ### References
 Coupling (Bad) and Cohersion (Good) - https://www.google.com/search?q=+coupling+and+cohesion+&client=firefox-b-d&sca_esv=8452c9a9fba5013a&sxsrf=ADLYWILdTd8ykGsweJUQeJAcYxCJoQp6AA%3A1716260616150&ei=CA9MZrnhCPKd4-EPm8-lsAk&ved=0ahUKEwi5hfiC4Z2GAxXyzjgGHZtnCZYQ4dUDCBA&uact=5&oq=+coupling+and+cohesion+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFyBjb3VwbGluZyBhbmQgY29oZXNpb24gMgUQABiABDILEAAYgAQYkQIYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEiEB1DsA1jsA3ABeAGQAQCYAWCgAWCqAQExuAEDyAEA-AEC-AEBmAICoAJwwgIKEAAYsAMY1gQYR5gDAIgGAZAGCJIHAzEuMaAHzAY&sclient=gws-wiz-serp
 
+You could never have **Zero coupling** but there exists decoupling. Ex: (High -> Low) // (Tight -> Loose) coupling tactics.
 
+Uni-directional.
