@@ -21,3 +21,5 @@ User-Defined Types (In Java):
 2. Hotel
 3. Train
 4. Flight
+
+We always prefer to use dynamic array rather than fixed array. In Java, we use ArrayList because you can set any array size.
