@@ -53,9 +53,9 @@ Learning Tool: For novice developers, design patterns serve as an educational re
 
   - Creational Patterns: These patterns deal with object creation mechanisms, aiming to create objects in a manner suitable for the situation. Examples include the Singleton, Factory Method, and Abstract Factory patterns.
   
-  - Structural Patterns: These patterns focus on the composition of classes and objects, helping to form large structures by combining objects and classes. Examples include the Adapter, Composite, and Decorator patterns.
+  - Structural Patterns: These patterns focus on the composition of classes and objects, helping to form large structures by combining objects and classes. Examples include the Adapter, Composite, Decorator, Facade patterns.
   
-  - Behavioral Patterns: These patterns are concerned with algorithms and the assignment of responsibilities between objects. They help manage complex control flows and interactions. Examples include the Observer, Strategy, and Command patterns.
+  - Behavioral Patterns: These patterns are concerned with algorithms and the assignment of responsibilities between objects. They help manage complex control flows and interactions. Examples include the Meditator, Observer, Strategy, and Command patterns.
 
 ### Gang of Four (GoF)
 The term "Gang of Four" (GoF) refers to the four authors of the seminal book on design patterns titled "Design Patterns: Elements of Reusable Object-Oriented Software." These authors are:
@@ -102,3 +102,4 @@ Here are a few examples of the design patterns from the GoF book:
 - Adapter Pattern (Structural): Allows incompatible interfaces to work together by wrapping an existing class with a new interface.
 - Observer Pattern (Behavioral): Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 - Strategy Pattern (Behavioral): Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from the clients that use it.
+
