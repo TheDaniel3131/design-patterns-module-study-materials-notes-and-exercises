@@ -78,7 +78,7 @@ Publication Date: The book was first published in 1994 and has since become a fo
   - Behavioral Patterns: Concerned with object interaction and responsibility.
   
 - Pattern Structure: Each pattern in the book is described in a consistent format, including:
-   -  Pattern Name: A descriptive name for the pattern.
+   - Pattern Name: A descriptive name for the pattern.
    - Intent: The goal or purpose of the pattern.
    - Motivation: A scenario or example illustrating the problem and how the pattern solves it.
    - Applicability: Situations where the pattern is applicable.
