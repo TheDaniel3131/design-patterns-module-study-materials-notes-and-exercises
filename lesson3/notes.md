@@ -113,3 +113,5 @@ Here are a few examples of the design patterns from the GoF book:
 ![WhatsApp Image 2024-05-28 at 11 56 00_5a58d34c](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/82fdbc27-d09a-400c-b4ea-cf455b870c68)
 
 
+## Behavioral Pattern - Mediator
+
