@@ -103,3 +103,13 @@ Here are a few examples of the design patterns from the GoF book:
 - Observer Pattern (Behavioral): Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 - Strategy Pattern (Behavioral): Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from the clients that use it.
 
+### Important Images
+![WhatsApp Image 2024-05-28 at 11 53 15_4004d024](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/ebd1e5da-cd33-4496-bbc7-211303f5e680)
+
+![WhatsApp Image 2024-05-28 at 11 53 17_baa16d77](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/d26806db-4bc7-48d4-9db3-b821d48d359d)
+
+![WhatsApp Image 2024-05-28 at 11 53 49_12c86359](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/d065ede5-f591-43dc-b420-7887562dffe4)
+
+![WhatsApp Image 2024-05-28 at 11 56 00_5a58d34c](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/82fdbc27-d09a-400c-b4ea-cf455b870c68)
+
+
