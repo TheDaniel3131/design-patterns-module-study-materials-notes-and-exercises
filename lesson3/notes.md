@@ -114,4 +114,22 @@ Here are a few examples of the design patterns from the GoF book:
 
 
 ## Behavioral Pattern - Mediator
+= The Mediator design pattern is a behavioral pattern that defines an object, called a mediator, that encapsulates how a set of objects interact. The Mediator promotes loose coupling by preventing objects from referring to each other explicitly, and it allows their interaction to be varied independently.
 
+#### Key Concepts of Mediator Pattern
+- Mediator Object: Centralizes complex communications and control logic between related objects, acting as an intermediary.
+- Colleagues: These are the objects that interact with each other via the mediator. Instead of interacting directly, they communicate through the mediator.
+
+#### Structure
+- Mediator Interface: Declares a method that the colleagues use to communicate.
+- Concrete Mediator: Implements the Mediator interface and coordinates communication between colleague objects.
+- Colleague Objects: Know about the mediator but have limited knowledge of other colleagues. They communicate with other colleagues through the mediator.
+
+#### Benefits
+- Decoupling: The Mediator pattern decouples colleagues by making them communicate indirectly through the mediator. This makes the system easier to maintain and understand.
+- Simplified Object Interactions: Reduces the complexity of communication by centralizing the interaction logic in the mediator.
+- Flexibility: Changing the interaction between colleagues requires only changing the mediator, not the colleagues themselves.
+
+#### When to Use Mediator Pattern
+- Complex Interactions: When a system has complex communication between multiple objects and you want to simplify the dependencies between them.
+- Reusability: When you want to reuse objects that can operate independently and communicate through an intermediary.
