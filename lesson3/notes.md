@@ -36,10 +36,11 @@ Learning Tool: For novice developers, design patterns serve as an educational re
 - **A Design Pattern is a reusable and tested solution to a reoccuring problem.**
 - A Design Pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into code, but rather a template or blueprint for how to solve a problem in various situations.
 - Defined as description of communicating objects and classes that are customized to solve general edsign problem in particular context.
+- A methodology tells you how to write down the decisions you have made, a pattern tells you which decision to make, when and how to make them, and why they are right.
 
-- Design patterns typically include the following elements:
+- Design patterns typically include the following elements.  Design Paterns: Essentials:
   
-  - Name: A descriptive name that conveys the essence of the pattern and facilitates discussion and communication.
+  - Pattern Name: A descriptive name that conveys the essence of the pattern and facilitates discussion and communication.
   
   - Problem: A description of the specific problem that the pattern addresses, including the context in which it occurs and the goals that need to be achieved.
   
