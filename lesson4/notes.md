@@ -1,4 +1,4 @@
-![image](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/3617f059-871d-4124-9215-a1321f7f0ed7)# Lesson 4
+# Lesson 4
 
 ## λ Calculus and Functional Programming Language
 - To analyze the interaction between functional abstraction and function application in a mathematical context.
@@ -214,6 +214,19 @@ function example() {
 - Easy to cache. (a thing that is hidden or stored somewhere)
 - Concise function (short code)
 
+
+## Type Interface
+- Variable Declarations:
+![image](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/2966a911-eed4-4359-8b8e-838b472276ee)
+
+- Function
+![image](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/5c64238a-0908-4c54-a4b1-701808aaf290)
+
+
+## Callback
+Computer program may not run sequentially at all times, sometimes, code can run asynchronously. This is asynchronous programming.
+Callbacks make sure that a function is not going to run before a task is completed but will run right after the task has completed. It helps us develop asynchronous JavaScript code and keeps us safe from problems and errors.
+![image](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/7c81ea24-6ba8-4ab8-9fd1-70a897727e16)
 
 
 
