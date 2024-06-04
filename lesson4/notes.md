@@ -1,4 +1,4 @@
-# Lesson 4
+![image](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/3617f059-871d-4124-9215-a1321f7f0ed7)# Lesson 4
 
 ## λ Calculus and Functional Programming Language
 - To analyze the interaction between functional abstraction and function application in a mathematical context.
@@ -144,3 +144,76 @@ const i = x => { v: x, w: x }; // Bad: Syntax
 Error
 
 ```
+```javascript
+// Sample of arrow function
+
+An imperative program follows these steps:
+var array = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+for (let i = 0; i < array.length; i++) {
+    array[i] = Math.pow(array[i], 2); }
+array; //-> [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+
+Functional approach: Array.map() do most of the heavy lifting:
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map(
+function (num) {
+    return Math.pow(num, 2);});
+
+Abstracting loops with functions lets you take advantage of lambda expressions or arrow functions
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map(num => Math.pow(num, 2));
+
+```
+```javascript
+// Samples of arrow function and ternary operators
+
+//The following two functions are the same!  They use the JS arrow function and ternary operators:
+
+condition ? exprIfTrue : exprIfFalse
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
+
+	
+
+var something = function(x){
+		if(x % 2 === 0){
+			return x + 1;
+		}
+		else{
+			return x - 1;
+		}
+	}
+
+or
+
+var my_function = x => x % 2 === 0 ? x + 1 : x - 1;
+```
+
+```javascript
+function example() {
+  if (condition1) {
+    return value1;
+  } else if (condition2) {
+    return value2;
+  } else if (condition3) {
+    return value3;
+  } else {
+    return value4;
+  }
+}
+
+function example() {
+  return condition1 ? value1
+    : condition2 ? value2
+    : condition3 ? value3
+    : value4;
+}
+```
+
+## Advantages of Lambda functions
+- Pure function, always.
+- Easy to read.
+- Easy to cache. (a thing that is hidden or stored somewhere)
+- Concise function (short code)
+
+
+
+
