@@ -53,3 +53,6 @@ public class Client {
 
 ![image](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/9bc4fc6d-fda5-422b-bf8f-4e8e899088d0)
 
+![image](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/a71b9cb8-c76f-4e9c-a4f1-17fa53914c8e)
+
+
