@@ -49,3 +49,4 @@ public class Client {
     }
 }
 ```
+![image](https://github.com/TheDaniel3131/design-patterns-module-study-materials-notes-and-exercises/assets/71692327/9f6dbefd-a843-45e9-9956-89f5c44e75d9)
